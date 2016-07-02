@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mobile-Security-Framework (MobSF)
 Version: v0.9.1 beta
 ![mobsecfav](https://cloud.githubusercontent.com/assets/4301109/7418958/68ec3d44-ef8f-11e4-97e2-b26a3d723814.png)
@@ -52,3 +53,8 @@ Mobile Security Framework (MobSF) is an intelligent, all-in-one open source mobi
 * Abhinav Sejpal (@Abhinav_Sejpal) - For poking me with bugs and feature requests.
 * Anant Srivastava (@anantshri) - For Activity Tester Idea
 
+=======
+# MobSF
+test
+test
+>>>>>>> origin/master
